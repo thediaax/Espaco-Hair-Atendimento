@@ -1,0 +1,225 @@
+html{
+    margin: 0px;
+    height: 95%;
+}
+.centralizacao{
+    margin-left: 164px;
+
+}
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+    
+}
+input[type=number] { 
+   -moz-appearance: textfield;
+   appearance: textfield;
+   
+
+}
+
+#textin{
+margin-top: 8%;
+margin-left: 63%;
+}
+#butao{
+margin-left: 50px;
+width: 250px;
+border-radius: 20px;
+}
+
+#logas{
+    margin-bottom: 20px;
+}
+#loginz{
+   margin-bottom: 15px;
+
+}
+
+
+#setinha{
+    margin-top: 20px;
+}
+body{
+    background-color: black;
+    background-color: #000; font-family: 'Montserrat', sans-serif; font-size: 17px;
+
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+  
+}
+.cardserv{
+
+
+    margin:30px ;
+}
+.card{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 400px;
+    height: 250px;
+}
+.btn-warning{
+    border-radius: 50px;
+   border: 2px solid;
+    border-color: #000;
+}
+.txtpr{
+    font-weight: bold;
+}
+
+.btncad{
+    background-color: #000;
+}
+/* footer {
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(10, 15, 15);
+    color: #FFF;
+    width: 100%;
+    height: 50px;    
+    line-height: 50px;
+} */
+.logosf{
+    width: 32px;
+    height: 32px;
+    justify-content: end;
+}
+
+.qsntxt{
+    width: 500px;
+    background-color: rgba(10, 10, 15, 0.7);
+    margin-top: 15vh;
+border-radius: 15px;
+left: 0px;
+
+}
+.circulos1 {
+width: 250px;
+height: 250px;
+border-radius: 50%;
+background-color: white;
+margin-left: 30%;
+margin-top: 2%;
+text-align: center;
+color: #000;
+}
+.circulos2 {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: 70%;
+    margin-top: 30%;
+    text-align: center;
+    color: #000;
+    }
+    .circulos3 {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        background-color: white;
+        margin-left: 95%;
+        margin-top: 16%;
+        text-align: center;
+        color: #000;
+        
+        }
+        .icocont{
+            width: 64px;
+            height: 64px;
+        }
+        .textocont{
+            color: #FFF;
+            font-size: xx-large;
+        }
+        .contpag{
+            height: 70%;
+        }
+        .circulost,h2{
+            font-weight: bold;
+        }
+         
+          .body-content{
+            /** Essa margem vai evitar que o conteudo fique por baixo do rodapé **/
+         margin-bottom: 40px; 
+          }
+          
+        footer{
+        margin-top:8%;
+            padding: 0px;
+            left: 0;
+             position:relative; 
+            width: 100%;
+ ;
+          }
+          .footercar{
+            background-color: #000;
+         
+          }
+          .navbar-toggler{
+            background-color: #FFF;
+          }
+          .modalDialog {
+            width: 100%;
+            position: fixed;
+              top: 0;
+              right: 0;
+              bottom: 0;
+              left: 0;
+            background: rgba(0,0,0,0.7);
+            z-index: 99999;
+            opacity: 0;
+            -webkit-transition: opacity 400ms ease-in;
+            -moz-transition: opacity 400ms ease-in;
+            transition: opacity 400ms ease-in;
+            pointer-events: none;
+            overflow: scroll; /* só ativa o scroll se o conteúdo do modal for cumprido */
+          }
+          
+          .modalDialog:target {
+            opacity: 1;
+            pointer-events: auto;
+          } 
+          
+          .modalDialog > div {
+            width: 800px;
+            position: relative;
+            margin: 150px auto;
+            padding: 5px 20px 13px 20px;
+            border-radius: 10px;
+            background: #fff;
+            background: -moz-linear-gradient(#fff, #999);
+            background: -webkit-linear-gradient(#fff, #999);
+            background: -o-linear-gradient(#fff, #999);
+            -moz-box-shadow: 1px 1px 30px #000;
+            -webkit-box-shadow: 1px 1px 30px #000;
+            box-shadow: 1px 1px 30px #000;
+          }
+          
+          .close {
+            background: #606061;
+            color: #fff;
+            line-height: 25px;
+            text-align: center;
+            text-decoration: none;
+          -webkit-border-radius: 12px;
+          -moz-border-radius: 12px;
+          border-radius: 12px;
+          -moz-box-shadow: 1px 1px 3px #000;
+          -webkit-box-shadow: 1px 1px 3px #000;
+          box-shadow: 1px 1px 3px #000;
+          }
+          
+          .close:hover { 
+            background: #00d9ff; 
+          }
+          .imgava{
+             border-radius: 100px;
+           width: 150px;
+           height:  150px;
+          background-position: center;
+      
+         
+
+          }

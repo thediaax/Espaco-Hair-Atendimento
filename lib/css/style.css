@@ -1,0 +1,17 @@
+*{margin:0; padding: 0; box-sizing: border-box; font-family: Arial,sans-serif;}
+
+.fc-timegrid-col-events{
+    margin: 0!important;
+}
+
+.calendarUser, .calendarManager, .calendar{
+    width: 80%;
+    margin: 30px auto;
+    height: 80vh;
+}
+
+.fc-timegrid-slot-lane:hover{
+    background-color: rgb(200, 200, 200);
+    cursor: pointer;
+}
+

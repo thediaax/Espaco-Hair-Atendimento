@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "Calendario Agenda",
+    "authors": [
+        {
+            "name": "Joao Vitor Ferreira"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}

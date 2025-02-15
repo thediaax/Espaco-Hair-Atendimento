@@ -1,0 +1,1 @@
+Projeto de Conclusão do curso de desenvolvimento de sistemas na Etec, consiste em um site de agendamento para um salão de beleza, com desenvolvimento do front-end utilizando html, css e js. Back-end com Php e Js, e banco de dados SQL
